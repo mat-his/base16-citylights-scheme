@@ -1,21 +1,19 @@
 scheme: "City lights"
 author: "Yummygum (https://yummygum.com)"
-base00: "171D22"
-base01: "1D252C"
-base02: "28313a"
-base03: "41505e"
-base04: "56697a"
-base05: "5ec4ff"
-base06: "728ca0"
-base07: "a0b3c5"
-# base08: "b7c5d3"
-base08: "EBBF83"
-base09: "e27e8d"
-base0A: "8BD49C"
-base0B: "539AFC"
-# base0C: "EBBF83"
-base0C: "d95468"
-base0D: "70e1e8"
-base0E: "b62d65"
-base0F: "008b94"
+base00: "171D22" # background
+base01: "1D252C" # lighter background
+base02: "28313a" # selection background
+base03: "41505e" # comments
+base04: "56697a" # dark foreground
+base05: "728ca0" # default foreground
+base06: "a0b3c5" # light foreground
+base07: "b7c5d3" # light background
+base08: "008b94" # xml tags
+base09: "e27e8d" # integers, boolean, constants
+base0A: "8BD49C" # classes, markup bold
+base0B: "539AFC" # strings
+base0C: "d95468" # support, regular expressions
+base0D: "70e1e8" # functions, methods
+base0E: "b62d65" # keywords
+base0F: "EBBF83" # deprecated, embedded language tags
 
